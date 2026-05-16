@@ -22,9 +22,6 @@ Three things I genuinely believe:
 
 Co-led delivery of a consumer health and wellness mobile application — cross-functional squad: iOS, Android, Frontend, Backend, and QC. End-to-end ownership of squad health, technical quality, and incident response.
 
-- Contained **5 cascading production incidents** from a single deploy — postmortem drove structural changes across staging, background jobs, and release gates
-- Coordinated MobSF security audits across iOS and Android; managed finding triage against active sprint work
-- Produced a full AWS infrastructure audit: service catalog, cost breakdown, risk surface, monitoring gaps
 - Built the tooling layer: standup automation, gitflow audit CLI, AI-queryable team context wiki
 
 ---
