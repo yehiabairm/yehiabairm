@@ -44,7 +44,6 @@
   | Project | What it is |
   |---------|-----------|
   | **beram.dev** | Personal site — projects, about, occasional writing |
-  | **Standup automation** | Jira fetch + Claude Code cron, runs 7 AM daily |
   | **LLM wiki** | AI-queryable team context system; Karpathy's pattern applied to engineering management |
   | **Gitflow audit CLI** | Claude-powered branch hygiene tool — built in one morning after a prod incident |
 
