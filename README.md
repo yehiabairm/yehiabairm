@@ -45,11 +45,6 @@ Co-led delivery of a consumer health and wellness mobile application — cross-f
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logoColor=white)
-
----
-
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yehiabairm&show_icons=true&theme=dark&bg_color=0c151f&title_color=f0b14a&icon_color=f0b14a&text_color=dde6ef&border_color=1b2a3b&hide_border=false&count_private=true)](https://github.com/yehiabairm)
 
-</div>
